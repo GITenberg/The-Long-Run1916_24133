@@ -12,6 +12,7 @@ Title: The Long Run
 Author: Edith Wharton
 
 Release Date: January 3, 2008 [EBook #24133]
+[Last updated: September 19, 2017]
 
 Language: English
 
@@ -131,7 +132,7 @@ talk with Merrick flagging!--and self-deception became impossible as I
 watched myself handing out platitudes with the gesture of the salesman
 offering something to a purchaser "equally good." The worst of it was
 that Merrick--Merrick, who had once felt everything!--didn't seem to
-feel the lack of spontaneity in my remarks, but hung on' them with a
+feel the lack of spontaneity in my remarks, but hung on them with a
 harrowing faith in the resuscitating power of our past. It was as if he
 hugged the empty vessel of our friendship without perceiving that the
 last drop of its essence was dry.
@@ -362,7 +363,7 @@ deal--immensely more than I could see a reason for--had hung for him on
 my opinion of his book.
 
 Then, as suddenly, his insistence dropped and, as if ashamed of having
-forced, himself so long on my attention, he began to talk rapidly and
+forced himself so long on my attention, he began to talk rapidly and
 uninterestingly of other things.
 
 We were alone again that evening, and after dinner, wishing to efface
@@ -403,7 +404,7 @@ and you used to like _her_; though you didn't know her when you saw her
 the other evening....
 
 "No, I won't ask you how she struck you when you talked to her: I know.
-She struck you like that stuff I gave you to read last night She's
+She struck you like that stuff I gave you to read last night. She's
 conformed--I've conformed--the mills have caught us and ground us:
 ground us, oh, exceedingly small!
 
@@ -1017,7 +1018,7 @@ each other enough to see just what it is we're going to do.'
 eye with which she approached the cadaver. 'For that's what it is, you
 know,' she flashed out at me, at the end of my long demonstration. 'It's
 a dead body, like all the instances and examples and hypothetical cases
-that ever were! What do you expect to learn from thai? The first great
+that ever were! What do you expect to learn from that? The first great
 anatomist was the man who stuck his knife in a heart that was beating;
 and the only way to find out what doing a thing will be like is to do
 it!'
